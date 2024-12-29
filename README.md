@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, my name is Daniel 👋
+- 🚀 I'm an aerospace engineer with a B.Sc from the Technion
+- 💻 I'm currently learning programming (mainly Java)
+- 🖱️ I have previous experience with Matlab, Python, and C
+- 🏀 Loves sports and a devoted Maccabi Haifa fan
+- 📫 You can contact me via email: DANIELSHANAN2@GMAIL.COM
 
 <!--
 **DaSh4430/DaSh4430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
